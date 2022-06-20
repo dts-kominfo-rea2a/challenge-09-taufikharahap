@@ -1,0 +1,14 @@
+.header {
+    margin-bottom: 20px;
+}
+.header h3 {
+    color: #0088ff;
+}
+.header p {
+    color: hsla(0, 0%, 0%, 0.596);
+}
+
+.header .garis {
+    color: #0088ff93;
+    margin-top: 25px;
+}
